@@ -44,7 +44,7 @@ function Info() {
               <div></div>
               <img className="intendimg" src={englishflag} alt="ss" />
             </div>
-            <span>Englsih</span>
+            <span>Englsih ---</span>
             <span style={{fontSize:"100%"}}>%80</span>
           </li>
           <li>
