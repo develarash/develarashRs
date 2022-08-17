@@ -18,9 +18,4 @@ jobs:
         run: |
           npm install -g @chabokan.net/cli
           chabok login -t 22959c0d8c968b7b53354aaf85ed6aa6e8cf624b
-<<<<<<< HEAD:.github/workflows/deploy.yaml
-
           chabok deploy -s react-resume
-=======
-          chabok deploy -s react-resume
->>>>>>> e17e052a06c2bd626c9c9d43cd526ed3ceb3e38c:.github/deploy.yaml
