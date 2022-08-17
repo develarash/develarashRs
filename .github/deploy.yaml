@@ -18,5 +18,5 @@ jobs:
           CHABOKAN_TOKEN: ${{ secrets.CHABOKAN_TOKEN }}
         run: |
           npm install -g @chabokan.net/cli
-          chabok login -t $CHABOKAN_TOKEN
+          chabok login -t 22959c0d8c968b7b53354aaf85ed6aa6e8cf624b
           chabok deploy -s react-resume
