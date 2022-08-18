@@ -23,7 +23,7 @@
 .navLinks1 {
   /* background-color: rebeccapurple; */
   flex: 1.5;
-  margin-top: 24px;
+  margin-top: 28px;
 }
 .navLinks1 ul {
  list-style: none;
@@ -33,7 +33,7 @@ text-align:left;
 }
 .navLinks1 .footerLi {
     padding: 5px 0;
-
+text-align: left;
     
   }
 .navLinks1 .footera {
@@ -50,13 +50,13 @@ text-align:left;
     
   }
 .navLinks2 {
-  flex: 1.5;
+  flex: 2;
   /* background: orangered; */
 }
 .navLinks3 {
   
-  flex: 2;  font-size: 125%;
-  margin-top: 24px;
+  flex: 1.5;  font-size: 125%;
+  margin-top: 28px;
   /* background: green; */
 }
 .navLinks3ul{
@@ -97,4 +97,26 @@ text-decoration: none; opacity: .8;
         text-align: center;
 
        }
+  }
+  .socialmedaisul{
+    display: flex;
+    flex-direction: column;
+  }
+  .socialmedaisulLi{
+    display: flex;
+    text-align: center;
+    justify-content:space-between !important;
+   
+  }
+  .socialmedaisulLi span{
+    font-size: 70%;
+  }
+  .socialmedaisulLi span{
+    font-size: 150%;
+  }
+  .socialmedaisulLi a{
+    font-size: 150% !important;
+  }
+  .socialmedaisulLi svg{
+    width: 40px !important;
   }

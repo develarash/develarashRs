@@ -14,7 +14,7 @@ const Navigation = () => {
         
       };
       let activeClassName = "red";
-      const linkNavigation=[{address:"/" ,name:"AboutMe"},{address:"Exprience" ,name:"Exprience"},{address:"Projects" ,name:"Projects"},{address:"questions" ,name:"Questions ?"},{address:"blog" ,name:"Articles "}]
+      const linkNavigation=[{address:"/" ,name:"AboutMe"},{address:"skills" ,name:"Skills "},{address:"Exprience" ,name:"Exprience"},{address:"Projects" ,name:"Projects"},{address:"questions" ,name:"Questions ?"},{address:"blog" ,name:"Articles "}]
   return (
     <div className="navigation">
       

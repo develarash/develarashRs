@@ -8,11 +8,7 @@
 gap: 10px;
   /* background: ; */
 }
-.languages {
-  /* padding: 50px; */
-  /* background: red; */
-  flex: 30%;
-}
+
  
 .divulskills{  
   margin-top: 30px;
@@ -61,6 +57,11 @@ text-align: center;
   fill: #fff;
   width: 20px;
 }
+.languages {
+  /* padding: 50px; */
+  /* background: red; */
+  flex: 1.5;
+}
 .languages ul {
   padding: 0 30px;
   /* background-color: rebeccapurple; */
@@ -87,12 +88,13 @@ text-align: center;
   height: 100%;
 }
 .otherskills {
-  flex: 30%;
+  flex: 2;
 
   /* background: red; */
 }
 .socialmedais {
-  flex: 30%;
+  flex: 2;
+
 }
 .socialmedais ul {
   padding: 0 30px;

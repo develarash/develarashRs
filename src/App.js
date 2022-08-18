@@ -15,6 +15,8 @@ import InserBlog from "./Components/dashboard/InserBlog";
 import Login from "./Components/dashboard/login";
 import Bloglist from "./Components/dashboard/bloglist";
 import UpdateBlog from "./Components/dashboard/updataBlog";
+import Skills from "./Components/screenSkills";
+
 import Register from "./Components/dashboard/register";
 import axios from "axios";
 import {Getdata}from "./context/getdatacntx"
@@ -51,7 +53,8 @@ function App() {
         <Route exact path="/blog/:id" element={<SingleBlog />} />
         <Route path="404" element={<NotFound />} />
         <Route path="401" element={<Authorized />} />
-
+      
+        <Route path="Skills" element={<Skills />} />
         <Route path="*" element={<NotFound />} />
         {/* dashboard */}
         <Route path="adm/insertblog" element={<InserBlog />} />

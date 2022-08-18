@@ -19,6 +19,9 @@
     font-size: 200%;
     margin: 60px 0;
   }
+  .singleArticlesection p{
+    width: 70%;
+  }
   .singleArticlesection .timesng{
 /* background-color: red;    width: 100%; */
 color: var(--f3);

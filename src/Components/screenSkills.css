@@ -1,0 +1,17 @@
+.ScreenSkills{
+    width: 100%;
+    max-width: 1600px;
+    /* background-color: red; */
+    padding: 80px;
+}
+.ScreenSkillsItem{
+    max-height: 150px;
+    display: flex;
+    margin-bottom: 50px;
+    align-items: center;
+}
+
+.ScreenSkillsItemlogoInfo{
+    font-size: 150%;
+    margin-left: 5%;
+}

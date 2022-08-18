@@ -32,6 +32,59 @@ import franceflag from "../../assets/frflag.png";
 function Info() {
   return (
     <div className="infoHome">
+       
+         <div className="socialmedais">
+        <h1 className="h1socialmedais">
+          <span> Social Medias</span>{" "}
+        </h1>
+        
+        <ul>
+          <li className="svginfo">
+            <Email style={{width:"7%"}} />
+            <span style={{fontSize:"180%"}}>Develarash@gmail.com</span>
+
+          </li>
+          <li className="svginfo">
+            <Twitter  style={{width:"7%"}}/>
+            <a href="https://twitter.com/develarash">twitter@Develarash</a>
+
+          </li>
+          <li className="svginfo">
+            <Linkedin style={{width:"7%"}} />
+            <a href="https://www.linkedin.com/in/arash-rahimi-89b082224/">LinkedIn/arashramy</a>
+          </li>
+          <li className="svginfo">
+            <Github style={{width:"7%"}} />
+            <a href="https://github.com/develarash">github.com/develarash</a>
+          </li>
+          <li className="svginfo"  style={{fontSize:"102%"}}>            <Phone style={{width:"7%"}} />
+            <span style={{fontSize:"180%"}}>+98_9381378120</span>
+          </li>
+        </ul>
+      </div>
+      <div className="otherskills">
+        <h1 className="h1otherskills">
+           Skills
+        </h1>
+        {/* <h3>Professional title: Fullstack javascript develper</h3> */}
+        <div className="divulskills">
+         <ul>
+          <li >JavaScript </li>
+          <li >Node Js </li>
+          <li >React JS </li>
+          <li >Redux</li>
+          <li >PWA</li>
+         </ul>
+         <ul> 
+         <li >MongoDB</li>
+         <li >MySql</li>
+         <li >GitHub & GitLab</li>
+
+         <li > Html,Css,Sass,
+          TailWind</li>
+         </ul>
+         </div>
+      </div>
       <div className="languages">
         <h1 className="h1languages">
           {" "}
@@ -44,8 +97,8 @@ function Info() {
               <div></div>
               <img className="intendimg" src={englishflag} alt="ss" />
             </div>
-            <span>Englsih ok-</span>
-            <span style={{fontSize:"100%"}}>%80</span>
+            <span>Englsih </span>
+
           </li>
           <li>
             {" "}
@@ -53,7 +106,7 @@ function Info() {
               <img className="intendimg" src={franceflag} alt="ss" />
             </div>
             <span>franch </span>
-            <span style={{fontSize:"100%"}}>%40</span>
+  
           </li>
           <li>
             {" "}
@@ -61,63 +114,12 @@ function Info() {
               <img className="intendimg" src={iranflag} alt="ss" />
             </div>
             <span>Persian</span>
-            <span style={{fontSize:"100%"}}>%100</span>
           </li>
         </ul>
       </div>
      
-      <div className="otherskills">
-        <h1 className="h1otherskills">
-          My Skills
-        </h1>
-        {/* <h3>Professional title: Fullstack javascript develper</h3> */}
-        <div className="divulskills">
-         <ul>
-          <li >JavaScript </li>
-          <li >Node Js </li>
-          <li >React JS </li>
-          <li >Redux</li>
-          <li >PWA</li>
-         </ul>
-         <ul> 
-         <li style={{color:"yellow"}}>MongoDB</li>
-         <li style={{color:"yellow"}} >MySql</li>
-         <li  style={{color:"yellow"}}>GitHub & GitLab</li>
-
-         <li > Html,Css,Sass,
-          TailWind</li>
-         </ul>
-         </div>
-      </div>
-      <div className="socialmedais">
-        <h1 className="h1socialmedais">
-          <span>My Social Medias</span>{" "}
-        </h1>
-        
-        <ul>
-          <li>
-            <Email style={{width:"7%"}} />
-            <span style={{fontSize:"180%"}}>Develarash@gmail.com</span>
-
-          </li>
-          <li>
-            <Twitter  style={{width:"7%"}}/>
-            <a href="https://twitter.com/develarash">twitter@Develarash</a>
-
-          </li>
-          <li>
-            <Linkedin style={{width:"7%"}} />
-            <a href="https://www.linkedin.com/in/arash-rahimi-89b082224/">LinkedIn/arashramy</a>
-          </li>
-          <li>
-            <Github style={{width:"7%"}} />
-            <a href="https://github.com/develarash">github.com/develarash</a>
-          </li>
-          <li style={{fontSize:"102%"}}>            <Phone style={{width:"7%"}} />
-            <span style={{fontSize:"180%"}}>+98_9381378120</span>
-          </li>
-        </ul>
-      </div>
+     
+   
     </div>
   );
 }

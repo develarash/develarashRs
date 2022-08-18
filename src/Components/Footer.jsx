@@ -25,7 +25,7 @@ const Footer = ({bgdata}) => {
       <div className="navLinks1">
         <ul>
           {linkNavigation.map((item, index) => (
-            <li className="footerLi" key={index}>
+            <li  style={{fontSize:"120%"}} className="footerLi" key={index}>
               <Link className="footera" to={item.address}>{item.name}</Link>
             </li>
           ))}
@@ -33,38 +33,41 @@ const Footer = ({bgdata}) => {
       </div>
       <div className="navLinks2">
       <div className="socialmedais">
+     
         
-        <ul>
-          <li >
+        <ul className="socialmedaisul">
+          <li className="socialmedaisulLi" >
             <Email />
-            <span>github.com/develarash</span>
+            <span >Develarash@gmail.com</span>
+
           </li>
-          <li>
-            <Twitter />
-            <span>develarash@gmail.com</span>
+          <li className="socialmedaisulLi" >
+            <Twitter   />
+            <a href="https://twitter.com/develarash">twitter@Develarash</a>
+
           </li>
-          <li>
+          <li className="socialmedaisulLi" >
             <Linkedin />
-            <span>github.com/develarash</span>
+            <a href="https://www.linkedin.com/in/arash-rahimi-89b082224/">LinkedIn/arashramy</a>
           </li>
-          <li>
-            <Github />
-            <span>github.com/develarash</span>
+          <li className="socialmedaisulLi" >
+            <Github  />
+            <a href="https://github.com/develarash">github.com/develarash</a>
           </li>
-          <li>
-            <Phone />
-            <span>+98_9381378120</span>
+          <li className="socialmedaisulLi" >
+            <Phone  />
+            <span >+98_9381378120</span>
           </li>
         </ul>
       </div>
        
       </div>
       <div className="navLinks3">
-      <h3 >Latest Articles</h3>
+      <h3 style={{fontSize:"140%"}} >Latest Articles</h3>
         <ul className="navLinks3ul">
           {bgdata&&
           bgdata.slice(0, 3).map((item, index) => (
-            <li className="navLinks3li" key={index}><Link to={`/blog/${item.id}`}>{item.title}</Link></li>
+            <li  style={{fontSize:"120%"}} className="navLinks3li" key={index}><Link to={`/blog/${item.id}`}>{item.title}</Link></li>
           ))}
         </ul>
       </div>
