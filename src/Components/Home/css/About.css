@@ -31,23 +31,29 @@
 /* Banner */
 .banner {
   /* padding: 0 5%; */
-  padding: 0 50px; 
 
-  margin:20px;
+  /* margin:20px; */
   display: flex;
   flex-direction: column;
   max-width: 1600px;
+  align-items: center;
+  /* justify-content: center; */
   /* height: 400px; */
+  /* margin-left: 3%; */
   min-width: 100%;
 }
 
 
 .banner-intro {
+  
+  /* background-color: red; */
+  min-width: 90%;
   display: flex;
   justify-content: start;
   flex-wrap: wrap;
   /* width:100%; */
   align-items: center;
+  
 }
 
 .intro-img {
@@ -59,6 +65,9 @@
   height: 100%;
 }
 .intro-name {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  
   margin-left: 5%;
   text-align: left;
 }
@@ -86,6 +95,8 @@
 .banner-about-me{
   width: 80%;
   /* padding: 20px 0; */
+  min-width: 90%;
+
 }
 .banner-about-me h2{
   color: var(--f3);

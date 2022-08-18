@@ -21,13 +21,23 @@ function Skills() {
           <Js />
         </div>
         <div>
-        <div>  <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p></div>
-        
+          <div>
+           <li>Experience of programming with raw JavaScript</li>
+            <li>
+              Experience in developing object-oriented JavaScript applications
+            </li>
+            <li>Familiarity with ECMAScript features</li>
+            <li>
+              Highly skilled at front-end web development using advanced
+              JavaScript
+            </li>
+            <li>
+              Has used DOM manipulation and AJAX at an advanced level and
+              debugged and tested these cross-browser
+            </li>
+            <li>Experience with Asynchronous control flow
+</li>
+          </div>
         </div>
       </div>
       <div className="ScreenSkillsItem">
@@ -35,13 +45,15 @@ function Skills() {
           <React />
         </div>
         <div>
-        <div>  <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p></div>
-        
+          <div>
+            {" "}
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+              quasi accusantium ipsum tempora quos maxime consequatur, veniam id
+              mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
+              corporis nesciunt?
+            </p>
+          </div>
         </div>
       </div>
       <div className="ScreenSkillsItem">
@@ -49,13 +61,15 @@ function Skills() {
           <Redux />
         </div>
         <div>
-        <div>  <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p></div>
-        
+          <div>
+            {" "}
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+              quasi accusantium ipsum tempora quos maxime consequatur, veniam id
+              mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
+              corporis nesciunt?
+            </p>
+          </div>
         </div>
       </div>
       <div className="ScreenSkillsItem">
@@ -63,13 +77,10 @@ function Skills() {
           <Nodejs />
         </div>
         <div>
-        <div>  <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p></div>
-        
+          <div>
+           <li>Experience with MVC design pattern
+</li>
+          </div>
         </div>
       </div>
       <div className="ScreenSkillsItem">
@@ -77,13 +88,10 @@ function Skills() {
           <Git />
         </div>
         <div>
-        <div>  <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p></div>
-        
+          <div>
+           <li>Improve application CI/CD pipeline
+</li>
+          </div>
         </div>
       </div>
       <div className="ScreenSkillsItem">
@@ -91,13 +99,15 @@ function Skills() {
           <Mysql />
         </div>
         <div>
-        <div>  <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p></div>
-        
+          <div>
+            {" "}
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+              quasi accusantium ipsum tempora quos maxime consequatur, veniam id
+              mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
+              corporis nesciunt?
+            </p>
+          </div>
         </div>
       </div>
       <div className="ScreenSkillsItem">
@@ -105,13 +115,15 @@ function Skills() {
           <MongoDb />
         </div>
         <div>
-        <div>  <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p></div>
-        
+          <div>
+            {" "}
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+              quasi accusantium ipsum tempora quos maxime consequatur, veniam id
+              mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
+              corporis nesciunt?
+            </p>
+          </div>
         </div>
       </div>
       <div className="ScreenSkillsItem">
@@ -119,13 +131,15 @@ function Skills() {
           <Sass />
         </div>
         <div>
-        <div>  <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p></div>
-        
+          <div>
+            {" "}
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+              quasi accusantium ipsum tempora quos maxime consequatur, veniam id
+              mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
+              corporis nesciunt?
+            </p>
+          </div>
         </div>
       </div>
       <div className="ScreenSkillsItem">
@@ -133,13 +147,15 @@ function Skills() {
           <Tailwind />
         </div>
         <div>
-        <div>  <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p></div>
-        
+          <div>
+            {" "}
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+              quasi accusantium ipsum tempora quos maxime consequatur, veniam id
+              mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
+              corporis nesciunt?
+            </p>
+          </div>
         </div>
       </div>
       <div className="ScreenSkillsItem">
@@ -147,13 +163,15 @@ function Skills() {
           <Typescript />
         </div>
         <div>
-        <div>  <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p></div>
-        
+          <div>
+            {" "}
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+              quasi accusantium ipsum tempora quos maxime consequatur, veniam id
+              mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
+              corporis nesciunt?
+            </p>
+          </div>
         </div>
       </div>
       <div className="ScreenSkillsItem">
@@ -161,16 +179,31 @@ function Skills() {
           <Pwa />
         </div>
         <div>
-        <div>  <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p></div>
-        
+          <div>
+            {" "}
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+              quasi accusantium ipsum tempora quos maxime consequatur, veniam id
+              mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
+              corporis nesciunt?
+            </p>
+          </div>
         </div>
-      </div>    </div>
+      </div>
+      <div className="ScreenSkillsItem">
+        <div className="ScreenSkillsItemlogo">
+          <Pwa />
+        </div>
+        <div>
+          <div>
+            {" "}
+            <li>Knowledge of TCP/IP, HTTP protocols</li>
+          </div>
+        </div>
+      </div>
+    </div>
   );
 }
+
 
 export default Skills;
