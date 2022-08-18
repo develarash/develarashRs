@@ -44,6 +44,9 @@ function Info() {
             <span style={{fontSize:"180%"}}>Develarash@gmail.com</span>
 
           </li>
+          <li className="svginfo"  style={{fontSize:"102%"}}>            <Phone style={{width:"7%"}} />
+            <span style={{fontSize:"180%"}}>+98_9381378120</span>
+          </li>
           <li className="svginfo">
             <Twitter  style={{width:"7%"}}/>
             <a href="https://twitter.com/develarash">twitter@Develarash</a>
@@ -57,9 +60,7 @@ function Info() {
             <Github style={{width:"7%"}} />
             <a href="https://github.com/develarash">github.com/develarash</a>
           </li>
-          <li className="svginfo"  style={{fontSize:"102%"}}>            <Phone style={{width:"7%"}} />
-            <span style={{fontSize:"180%"}}>+98_9381378120</span>
-          </li>
+          
         </ul>
       </div>
       <div className="otherskills">
@@ -105,7 +106,7 @@ function Info() {
             <div className="img">
               <img className="intendimg" src={franceflag} alt="ss" />
             </div>
-            <span>franch </span>
+            <span>French </span>
   
           </li>
           <li>

@@ -12,7 +12,7 @@ gap: 10px;
  
 .divulskills{  
   margin-top: 30px;
-gap: 20px;
+gap: 40px;
   display: flex;
   justify-content: center;
   width: 100%;
@@ -21,9 +21,9 @@ gap: 20px;
 .divulskills ul{
   /* background-color: red; */
 width: 30%;  
+text-align: left;
 /* background-color: rebeccapurple; */
 /* background-color: red; */
-text-align: center;
 }
 .divulskills ul li{
   text-align: left;
@@ -32,8 +32,7 @@ text-align: center;
   color:white;
   text-shadow: 2px 2px 2px var(--f3);
   font-size: 140%;
-  font-size: 180%;
-  /* padding-top: 10px; */
+  padding-top: 10px;
   letter-spacing: 2px;
 
 }
@@ -76,7 +75,7 @@ text-align: center;
   margin: 15px 0;
   font-size: 180%;
   /* background-color: yellow; */
-  gap: 30px;
+  gap: 50px;
 }
 .languages ul li .img {
   width: 30px;
@@ -97,23 +96,33 @@ text-align: center;
 
 }
 .socialmedais ul {
+  display: flex;
+  flex-direction: column;
   padding: 0 30px;
+    /* background-color: red; */
   margin-top: 30px;
   list-style: none;
 }
 .socialmedais ul li {
+  /* background-color: rebeccapurple; */
   display: flex;
   text-align: center;
-  justify-content:flex-start;
+  justify-content:flex-start  ;
   margin: 10px 0;
   opacity: 0.8;
-  gap: 30px;
+  gap: 70px;
 
 }
 .socialmedais ul li a {
-  font-size: 180%;
+  font-size: 150%;
   text-decoration: none;
   color: white;
+  text-align: left;
+}
+.socialmedais ul li span {
+color: var(--f3);
+font-size: 130% !important;
+  text-align: left;
 }
 .socialmedais ul li a:hover {
 color: var(--f3) !important;

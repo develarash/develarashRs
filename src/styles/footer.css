@@ -26,19 +26,20 @@
   margin-top: 28px;
   display: flex;
   padding:0 30px;
-  justify-content: flex-start;
+  justify-content: center;
   /* align-items: center;
   justify-content: flex-start; */
 }
 .navLinks1 ul {
  list-style: none;
+ /* background-color: red; */
 text-align:left;
   width: fit-content;
   height: fit-content;
 }
 .navLinks1 .footerLi {
     padding: 5px 0;
-text-align: left;
+text-align: center;
     
   }
 .navLinks1 .footera {
