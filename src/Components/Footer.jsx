@@ -12,6 +12,7 @@ import { ReactComponent as Github } from "../assets/social media/github-square-b
 
 const linkNavigation = [
   { address: "/", name: "AboutMe" },
+  { address: "skills", name: "Skills " },
   { address: "Exprience", name: "Exprience" },
   { address: "Projects", name: "Projects" },
   { address: "questions", name: "questions ?" },

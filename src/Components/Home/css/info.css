@@ -33,7 +33,7 @@ text-align: center;
   text-shadow: 2px 2px 2px var(--f3);
   font-size: 140%;
   font-size: 180%;
-  padding-top: 10px;
+  /* padding-top: 10px; */
   letter-spacing: 2px;
 
 }
@@ -104,9 +104,10 @@ text-align: center;
 .socialmedais ul li {
   display: flex;
   text-align: center;
-  justify-content: space-between;
+  justify-content:flex-start;
   margin: 10px 0;
   opacity: 0.8;
+  gap: 30px;
 
 }
 .socialmedais ul li a {

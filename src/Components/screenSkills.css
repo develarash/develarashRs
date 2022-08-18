@@ -2,16 +2,36 @@
     width: 100%;
     max-width: 1600px;
     /* background-color: red; */
-    padding: 80px;
+    /* padding: 80px; */
+    gap: 50px;
+    
 }
+@media screen and (min-width: 1600px) {
+    .ScreenSkills {
+      margin: 0 auto;
+    }
+  }
+  
 .ScreenSkillsItem{
+    gap: 20px;
+    font-size: 100%;
     max-height: 150px;
     display: flex;
-    margin-bottom: 50px;
+    justify-content: center;
+    margin: 70px;
     align-items: center;
 }
-
-.ScreenSkillsItemlogoInfo{
-    font-size: 150%;
-    margin-left: 5%;
+.ScreenSkillsItemlogo{
+    
 }
+
+.socialmedaisulLi svg{
+    font-size: 50% !important;
+}
+@media screen and (max-width: 800px) {
+    .ScreenSkillsItem {
+        flex-direction: column;
+    text-align: center;
+    gap: 30px;
+    }
+  }

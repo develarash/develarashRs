@@ -78,7 +78,7 @@ function Info() {
          <ul> 
          <li >MongoDB</li>
          <li >MySql</li>
-         <li >GitHub & GitLab</li>
+         <li >Git</li>
 
          <li > Html,Css,Sass,
           TailWind</li>

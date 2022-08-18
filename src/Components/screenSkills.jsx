@@ -18,177 +18,158 @@ function Skills() {
     <div className="ScreenSkills">
       <div className="ScreenSkillsItem">
         <div className="ScreenSkillsItemlogo">
-          {" "}
           <Js />
         </div>
-        <div className="ScreenSkillsItemlogoInfo">
-          {" "}
-          <p>
+        <div>
+        <div>  <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
             quasi accusantium ipsum tempora quos maxime consequatur, veniam id
             mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
             corporis nesciunt?
-          </p>
-        </div>
-      </div>
-      <div className="ScreenSkillsItem">
-        <div className="ScreenSkillsItemlogo">
-          {" "}
-          <React/>
-
-        </div>
-        <div className="ScreenSkillsItemlogoInfo">
-          {" "}
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p>
-        </div>
-      </div>
-      <div className="ScreenSkillsItem">
-        <div className="ScreenSkillsItemlogo">
-          {" "}
-          <Redux/>
-        </div>
-        <div className="ScreenSkillsItemlogoInfo">
-          {" "}
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p>
-        </div>
-      </div>
-      <div className="ScreenSkillsItem">
-        <div className="ScreenSkillsItemlogo">
-          {" "}
-          <Nodejs/>
-        </div>
-        <div className="ScreenSkillsItemlogoInfo">
-          {" "}
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p>
-        </div>
-      </div>
-      <div className="ScreenSkillsItem">
-        <div className="ScreenSkillsItemlogo">
-          {" "}
-          <Git/>
-        </div>
-        <div className="ScreenSkillsItemlogoInfo">
-          {" "}
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p>
-        </div>
-      </div>
-      <div className="ScreenSkillsItem">
-        <div className="ScreenSkillsItemlogo">
-          {" "}
-          <Mysql/>
-        </div>
-        <div className="ScreenSkillsItemlogoInfo">
-          {" "}
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p>
-        </div>
-      </div>
-      <div className="ScreenSkillsItem">
-        <div className="ScreenSkillsItemlogo">
-          {" "}
-          <MongoDb/>
-
-        </div>
-        <div className="ScreenSkillsItemlogoInfo">
-          {" "}
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p>
-        </div>
-      </div>
-      <div className="ScreenSkillsItem">
-        <div className="ScreenSkillsItemlogo">
-          {" "}
-          <Sass/>
-
-        </div>
+          </p></div>
         
-        <div className="ScreenSkillsItemlogoInfo">
-          {" "}
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-            corporis nesciunt?
-          </p>
         </div>
       </div>
       <div className="ScreenSkillsItem">
         <div className="ScreenSkillsItemlogo">
-          {" "}
-          <Tailwind/>
+          <React />
         </div>
-        <div className="ScreenSkillsItemlogoInfo">
-          {" "}
-          <p>
+        <div>
+        <div>  <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
             quasi accusantium ipsum tempora quos maxime consequatur, veniam id
             mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
             corporis nesciunt?
-          </p>
+          </p></div>
+        
         </div>
       </div>
       <div className="ScreenSkillsItem">
         <div className="ScreenSkillsItemlogo">
-          {" "}
-          <Typescript/>
+          <Redux />
         </div>
-        <div className="ScreenSkillsItemlogoInfo">
-          {" "}
-          <p>
+        <div>
+        <div>  <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
             quasi accusantium ipsum tempora quos maxime consequatur, veniam id
             mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
             corporis nesciunt?
-          </p>
+          </p></div>
+        
         </div>
       </div>
- 
       <div className="ScreenSkillsItem">
         <div className="ScreenSkillsItemlogo">
-          {" "}
-          <Pwa/>
+          <Nodejs />
         </div>
-        <div className="ScreenSkillsItemlogoInfo">
-          {" "}
-          <p>
+        <div>
+        <div>  <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
             quasi accusantium ipsum tempora quos maxime consequatur, veniam id
             mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
             corporis nesciunt?
-          </p>
+          </p></div>
+        
         </div>
       </div>
-
-      
-    </div>
+      <div className="ScreenSkillsItem">
+        <div className="ScreenSkillsItemlogo">
+          <Git />
+        </div>
+        <div>
+        <div>  <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
+            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
+            corporis nesciunt?
+          </p></div>
+        
+        </div>
+      </div>
+      <div className="ScreenSkillsItem">
+        <div className="ScreenSkillsItemlogo">
+          <Mysql />
+        </div>
+        <div>
+        <div>  <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
+            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
+            corporis nesciunt?
+          </p></div>
+        
+        </div>
+      </div>
+      <div className="ScreenSkillsItem">
+        <div className="ScreenSkillsItemlogo">
+          <MongoDb />
+        </div>
+        <div>
+        <div>  <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
+            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
+            corporis nesciunt?
+          </p></div>
+        
+        </div>
+      </div>
+      <div className="ScreenSkillsItem">
+        <div className="ScreenSkillsItemlogo">
+          <Sass />
+        </div>
+        <div>
+        <div>  <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
+            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
+            corporis nesciunt?
+          </p></div>
+        
+        </div>
+      </div>
+      <div className="ScreenSkillsItem">
+        <div className="ScreenSkillsItemlogo">
+          <Tailwind />
+        </div>
+        <div>
+        <div>  <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
+            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
+            corporis nesciunt?
+          </p></div>
+        
+        </div>
+      </div>
+      <div className="ScreenSkillsItem">
+        <div className="ScreenSkillsItemlogo">
+          <Typescript />
+        </div>
+        <div>
+        <div>  <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
+            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
+            corporis nesciunt?
+          </p></div>
+        
+        </div>
+      </div>
+      <div className="ScreenSkillsItem">
+        <div className="ScreenSkillsItemlogo">
+          <Pwa />
+        </div>
+        <div>
+        <div>  <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+            quasi accusantium ipsum tempora quos maxime consequatur, veniam id
+            mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
+            corporis nesciunt?
+          </p></div>
+        
+        </div>
+      </div>    </div>
   );
 }
 

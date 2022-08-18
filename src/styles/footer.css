@@ -24,6 +24,11 @@
   /* background-color: rebeccapurple; */
   flex: 1.5;
   margin-top: 28px;
+  display: flex;
+  padding:0 30px;
+  justify-content: flex-start;
+  /* align-items: center;
+  justify-content: flex-start; */
 }
 .navLinks1 ul {
  list-style: none;
@@ -87,7 +92,7 @@ text-decoration: none; opacity: .8;
       }
     .navLinks1 {
         display: flex;
-        justify-content: center;
+   
     }
     .navLinks1 ul {
        text-align:center;
@@ -105,8 +110,13 @@ text-decoration: none; opacity: .8;
   .socialmedaisulLi{
     display: flex;
     text-align: center;
-    justify-content:space-between !important;
-   
+    justify-content:flex-start !important;
+    text-align: center;
+   gap:10px;
+  }
+  .socialmedaisulLi svg{
+font-style: 20px;   
+width: 30px;
   }
   .socialmedaisulLi span{
     font-size: 70%;
@@ -117,6 +127,4 @@ text-decoration: none; opacity: .8;
   .socialmedaisulLi a{
     font-size: 150% !important;
   }
-  .socialmedaisulLi svg{
-    width: 40px !important;
-  }
+  
