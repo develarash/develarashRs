@@ -6,17 +6,32 @@ const Question = () => {
     {
       question: "Tell me about yourself ؟",
       answer:
-        "My interest in software and application development was formed as a teenager when I was studying in the software school, and then I tried to develop my personal abilities as a full-stack developer.",
+        "My name is Arash full JavaScript developer I was born in 1999 and studied computer software in high school and university I have participated in startup projects and cooperated with software companies, and now I can fulfill all your expectations from a fullstack programmer.",
     },
     {
-      question: "Why should we hire you?",
+      question: "Where are you based now?",
       answer:
-        "As a front-end and back-end developer, I do my best to develop and implement the company's needs.",
+        "I am currently based in Iran",
     },
     {
-      question: "Why do you want to work here?",
+      question: "Do you speak another language besides English?",
       answer:
-        "According to your needs, I have the ability to implement the services provided by you, and in addition to the development of the company, I want to develop my capabilities in the field of developing large applications.",
+        "Yes, intermediate level French",
+    },
+    {
+      question: "What is your plan in the future of your work?",
+      answer:
+        " My plan is to develop individual skills and implement new ideas with the team",
+    },
+    {
+      question: "Do you have the ability to deal with bugs and errors?",
+      answer:
+        " Yes, I try to fix the errors and bugs that occur in the work process with persistence",
+    },
+    {
+      question: "Do you have the ability to use and implement the skills mentioned by you ?",
+      answer:
+        "Yes, I am able to develop with them. All the skills I have mentioned are used to develop group tasks",
     },
     {
       question: "What is your greatest strength?",
@@ -26,33 +41,21 @@ const Question = () => {
     {
       question: "Tell me about a time you were successful on a team ?",
       answer:
-        "In teamwork, the progress and success of the team is actually the same as personal progress and success, and the product and service created by us is proud. The last time I was a front-end developer, I was running a startup in dried fruit and nuts.",
+        "In teamwork, the progress and success of the team is actually the same as personal progress and success, and the product and service created by us is proud.",
     },
     {
-      question: "What would your co-workers say about you ?",
+      question: "What would your teammate say about you ?",
       answer:
         "This is a question with different views After a short period of working with me, they notice my efforts to do things correctly and on time And they also know that I try to provide the best in my position",
     },
-    {
-      question: "Why do you want to leave your current role? ",
-      answer:
-        "This has been completed with the satisfaction of my colleagues and partners And my tasks have been completed I also do this to improve my talent and projects",
-    },
-    {
-      question: "Describe your most challenging project ? ",
-      answer:
-        "As far as I remember, it was the biggest challenge in the previous two years that there were a series of changes in the customs and financial laws of the target country, which caused fundamental changes in the project and the company, and we tried to resolve them.",
-    },
+   
+   
     {
       question: "Tell me about something you’ve accomplished that you are proud of ? ",
       answer:
-        "I am proud of all the projects that I have worked on, including full stack JS and SEO management. 😉 ",
+        "I am proud of all the projects that I have worked on,😉 ",
     },
-    {
-      question: "Tell me about something you’ve accomplished that you are proud of ? ",
-      answer:
-        "Outside of work, I prefer to be at the disposal of my family and do sports such as volleyball🏐 and swimming🏊‍♀️ Reading such books and learning new things is one of my hobbies ",
-    },
+ 
   ];
   const [selected, setSelected] = useState(null);
   const toggle = (i) => {
@@ -88,3 +91,25 @@ const Question = () => {
 };
 
 export default Question;
+
+
+// {
+//   question: "Why should we hire you?",
+//   answer:
+//     "As a front-end and back-end developer, I do my best to develop and implement the company's needs.",
+// },
+// {
+//   question: "Why do you want to work here?",
+//   answer:
+//     "According to your needs, I have the ability to implement the services provided by you, and in addition to the development of the company, I want to develop my capabilities in the field of developing large applications.",
+// },
+//  {
+//   question: "Why do you want to leave your current role? ",
+//   answer:
+//     "This has been completed with the satisfaction of my colleagues and partners And my tasks have been completed I also do this to improve my talent and projects",
+// },
+// {
+//   question: "Describe your most challenging project ? ",
+//   answer:
+//     "As far as I remember, it was the biggest challenge in the previous two years that there were a series of changes in the customs and financial laws of the target country, which caused fundamental changes in the project and the company, and we tried to resolve them.",
+// },

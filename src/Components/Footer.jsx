@@ -40,7 +40,10 @@ const Footer = ({bgdata}) => {
           <li className="socialmedaisulLi" >
             <Email />
             <span >Develarash@gmail.com</span>
-
+          </li>
+          <li className="socialmedaisulLi" >
+            <Phone  />
+            <span >+98_9381378120</span>
           </li>
           <li className="socialmedaisulLi" >
             <Twitter   />
@@ -55,10 +58,7 @@ const Footer = ({bgdata}) => {
             <Github  />
             <a href="https://github.com/develarash">github.com/develarash</a>
           </li>
-          <li className="socialmedaisulLi" >
-            <Phone  />
-            <span >+98_9381378120</span>
-          </li>
+         
         </ul>
       </div>
        

@@ -22,7 +22,7 @@ const Banner = () => {
     </div>
     <div className='banner-about-me'>
         <h2>About me</h2>
-        <p>I am Arash, a full JavaScript developer
+        <p>My name is Arash full JavaScript developer
 I was born in 1999 and studied computer software in high school and university
 I have participated in startup projects and cooperated with software companies, and now I can fulfill all your expectations from a fullstack programmer.</p>
         <button className='exprienceButton' onClick={()=>navigate("/Exprience") }>Exprience</button>

@@ -46,13 +46,11 @@ function Skills() {
         </div>
         <div>
           <div>
-            {" "}
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-              quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-              mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-              corporis nesciunt?
-            </p>
+          <li>Experience of programming with ReactJs + NextJs</li>
+            <li>Familiarity with React Hooks V-18</li>
+            <li>Familiarity with React Lifecycle </li>
+            <li>implement single page applicaitons (spa) </li>
+
           </div>
         </div>
       </div>
@@ -60,16 +58,9 @@ function Skills() {
         <div className="ScreenSkillsItemlogo">
           <Redux />
         </div>
+        <li>Familiarity with Redux to manage states in Reactjs</li>
         <div>
-          <div>
-            {" "}
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-              quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-              mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-              corporis nesciunt?
-            </p>
-          </div>
+         
         </div>
       </div>
       <div className="ScreenSkillsItem">
@@ -78,8 +69,12 @@ function Skills() {
         </div>
         <div>
           <div>
+            <li>Implement authentication and access authorization and working with sessions and cookies and....</li>
+            <li>Implement of mathematical and specialized operations on the server side of the application using NodeJS</li>
+     <li>Sending requests and APIs</li>
            <li>Experience with MVC design pattern
 </li>
+<li>Working with MangoDB and MySQL databases</li>
           </div>
         </div>
       </div>
@@ -91,6 +86,8 @@ function Skills() {
           <div>
            <li>Improve application CI/CD pipeline
 </li>
+<li>Familiarity with Github and Gitlab </li>
+
           </div>
         </div>
       </div>
@@ -100,13 +97,10 @@ function Skills() {
         </div>
         <div>
           <div>
-            {" "}
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-              quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-              mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-              corporis nesciunt?
-            </p>
+            <li>Implementation of relational database </li>
+        <li>Familiar with MySQL database and sending and receiving queries</li>
+        <li>CRAD operation on the application using (Sequelize)</li>
+        <li>Designing databases for Ecommerce , blogs 8...</li>
           </div>
         </div>
       </div>
@@ -116,13 +110,7 @@ function Skills() {
         </div>
         <div>
           <div>
-            {" "}
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-              quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-              mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-              corporis nesciunt?
-            </p>
+          <li>Familiar with MongoDB and to store big data using Mongoose</li>
           </div>
         </div>
       </div>
@@ -132,13 +120,7 @@ function Skills() {
         </div>
         <div>
           <div>
-            {" "}
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-              quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-              mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-              corporis nesciunt?
-            </p>
+            
           </div>
         </div>
       </div>
@@ -148,13 +130,7 @@ function Skills() {
         </div>
         <div>
           <div>
-            {" "}
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-              quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-              mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-              corporis nesciunt?
-            </p>
+          
           </div>
         </div>
       </div>
@@ -164,40 +140,18 @@ function Skills() {
         </div>
         <div>
           <div>
-            {" "}
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-              quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-              mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-              corporis nesciunt?
-            </p>
+        
           </div>
         </div>
       </div>
+    
       <div className="ScreenSkillsItem">
         <div className="ScreenSkillsItemlogo">
           <Pwa />
         </div>
         <div>
           <div>
-            {" "}
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-              quasi accusantium ipsum tempora quos maxime consequatur, veniam id
-              mollitia, nostrum odit corporis quis rem! Perferendis vel a enim
-              corporis nesciunt?
-            </p>
-          </div>
-        </div>
-      </div>
-      <div className="ScreenSkillsItem">
-        <div className="ScreenSkillsItemlogo">
-          <Pwa />
-        </div>
-        <div>
-          <div>
-            {" "}
-            <li>Knowledge of TCP/IP, HTTP protocols</li>
+     
           </div>
         </div>
       </div>
